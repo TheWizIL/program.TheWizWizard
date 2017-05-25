@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30001">Update version</string>
+	<string id="30002">available</string>
+	<string id="30003">Do you want to update to last verion?</string>
+	<string id="30004">Note: If will not update, this notice willn't show again</string>
+</strings>

@@ -1,0 +1,18 @@
+[{
+	"id": "AAAA",
+	"name": "A Wizard",
+	"zip": ["https://test.com/Kodi.Pack.[VER].zip"],
+	"addons": ["plugin.audio.mixcloud","plugin.image.500px"],
+	"img": "http://i.imgur.com/aaaa.jpg",
+	"fanart": "http://i.imgur.com/aaaa.jpg",
+	"description": "Complete installation of the Kodi."
+},
+{
+	"id": "BBBB",
+	"name": " BWizard",
+	"zip": ["https://test.com/Kodi.Pack.[VER].zip"],
+	"addons": ["plugin.audio.mixcloud","plugin.image.500px"],
+	"img": "http://i.imgur.com/aaaa.jpg",
+	"fanart": "http://i.imgur.com/aaaa.jpg",
+	"description": "Complete installation of the Kodi."
+}]
