@@ -11,3 +11,5 @@ Kodi easy Wizard
 8. Zip it & install it & run under Kodi->Programs
 
 That all!
+
+Disclaimer: This script is for ducational purposes only! Don't use it for illigale activities. You are the only one responsibility for your actions!
